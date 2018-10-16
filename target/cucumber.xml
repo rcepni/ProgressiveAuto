@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="65.419262">
+<testcase classname="Insurance Quote from Progressive" name="Insurance quote for one person" time="65.419262">
+<system-out><![CDATA[Given the user is on the homepage of Progressive............................passed
+When the user verifies url and title while on the homepage..................passed
+And the user clicks on the Auto button......................................passed
+And the user enters the zip code............................................passed
+And the user clicks on the Quote Auto button................................passed
+And the user enters the first name..........................................passed
+And the user enters the last name...........................................passed
+And the user enters the address.............................................passed
+And the user enters the city................................................passed
+And the user enters the date of birth.......................................passed
+And the user clicks on the Okay, start my quote button......................passed
+And the user chooses the year of the vehicle................................passed
+And the user chooses the make of the vehicle................................passed
+And the user chooses the model of the vehicle...............................passed
+And the user selects body type..............................................passed
+And the user selects the purpose of use.....................................passed
+And user selects if the car is owned or leased..............................passed
+And the user selects for how lond the car has been owned....................passed
+And the user clicks on the Done button......................................passed
+And the user clicks on the Save and Continue button.........................passed
+And the user chooses the gender.............................................passed
+And the user selects marital status.........................................passed
+And the user selects the highest level of education.........................passed
+And the user selects employment status......................................passed
+And the user views the accupation list......................................passed
+And the user selects an industry from the industry selection list...........passed
+And the user selects an occupation from the occupation list.................passed
+And the user clicks on the save and continue button after selecting occupation.passed
+And the user selects primary residence......................................passed
+And the user answers the question if s/he moved in two years................passed
+And the user selects the years licensed.....................................passed
+And the user answers the question if s/he was involven in an accident.......passed
+And the user reports the violations and tictets.............................passed
+And the user clicks on the save and continue button and continues...........passed
+And the user clicks on the fourth save and continue button to continue......passed
+And the user clicks on the save and continue button for the fifth time......passed
+And the user answers the question about insurance history...................passed
+And the user selects the duration with s/he is insured with the current company.passed
+And the user selects most recent bodily injury limits.......................passed
+And the user chooeses if s/he has purchases a service from progressive other than car insurance.passed
+And the user chooses if s/he was insured by progressive last month..........passed
+And the user enters the primary email address...............................passed
+And the user answers the question if the family members have health insurance.passed
+And the user clicks oon the sixth save and continue button..................passed
+And the customer is asked if s/he wants to use snatpshot....................passed
+And the customer clicks on the save and continiue button for the seventh time.passed
+]]></system-out>
+</testcase>
+</testsuite>

@@ -1,0 +1,611 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4344867784,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Insurance quote for one person",
+        "description": "",
+        "id": "insurance-quote-from-progressive;insurance-quote-for-one-person",
+        "after": [
+          {
+            "result": {
+              "duration": 98845402,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 21580688,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "the user is on the homepage of Progressive",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_is_on_the_homepage_of_Progressive()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7263110,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "the user verifies url and title while on the homepage.",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_verifies_url_and_title_while_on_the_homepage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 145275872,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "the user clicks on the Auto button",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_clicks_on_the_Auto_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 101423664,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the user enters the zip code",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_enters_the_zip_code()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 730836337,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "the user clicks on the Quote Auto button",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_clicks_on_the_Quote_Auto_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6221685940,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "the user enters the first name",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_enters_the_first_name()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 128858063,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "the user enters the last name",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_enters_the_last_name()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 290976336,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the user enters the address",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_enters_the_address()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 156840012,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "the user enters the city",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_enters_the_city()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 144774798,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "the user enters the date of birth",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_enters_the_date_of_birth()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 125594803,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "the user clicks on the Okay, start my quote button",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_clicks_on_the_Okay_start_my_quote_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3014590111,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "the user chooses the year of the vehicle",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_chooses_the_year_of_the_vehicle()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1119425857,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "the user chooses the make of the vehicle",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_chooses_the_make_of_the_vehicle()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1126173099,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "the user chooses the model of the vehicle",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_chooses_the_model_of_the_vehicle()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1164124617,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "the user selects body type",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_selects_body_type()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1282936113,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "the user selects the purpose of use",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_selects_the_purpose_of_use()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1169485278,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user selects if the car is owned or leased",
+            "match": {
+              "location": "autoRegisterStepDefs.user_selects_if_the_car_is_owned_or_leased()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1166951048,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "the user selects for how lond the car has been owned",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_selects_for_how_lond_the_car_has_been_owned()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1155015651,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "the user clicks on the Done button",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_clicks_on_the_Done_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1400170705,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "the user clicks on the Save and Continue button",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_clicks_on_the_Save_and_Continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2201587505,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "the user chooses the gender",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_chooses_the_gender()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1153041226,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "the user selects marital status",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_selects_marital_status()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 180869627,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "the user selects the highest level of education",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_selects_the_highest_level_of_education()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1163957514,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "the user selects employment status",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_selects_employment_status()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2114034483,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "the user views the accupation list",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_views_the_accupation_list()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1187558514,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "the user selects an industry from the industry selection list",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_selects_an_industry_from_the_industry_selection_list()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 461254651,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "the user selects an occupation from the occupation list",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_selects_an_occupation_from_the_occupation_list()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 94842296,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "the user clicks on the save and continue button after selecting occupation",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_clicks_on_the_save_and_continue_button_after_selecting_occupation()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1161005322,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "the user selects primary residence",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_selects_primary_residence()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1122420397,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "the user answers the question if s/he moved in two years",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_answers_the_question_if_s_he_moved_in_two_years()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1150122373,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "the user selects the years licensed",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_selects_the_years_licensed()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1128077580,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "the user answers the question if s/he was involven in an accident",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_answers_the_question_if_s_he_was_involven_in_an_accident()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1119818174,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "the user reports the violations and tictets",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_reports_the_violations_and_tictets()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2118041796,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "the user clicks on the save and continue button and continues",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_clicks_on_the_save_and_continue_button_and_continues()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2105580595,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "the user clicks on the fourth save and continue button to continue",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_clicks_on_the_fourth_save_and_continue_button_to_continue()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2104421215,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "the user clicks on the save and continue button for the fifth time",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_clicks_on_the_save_and_continue_button_for_the_fifth_time()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3117535464,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "the user answers the question about insurance history",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_answers_the_question_about_insurance_history()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1251883547,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "the user selects the duration with s/he is insured with the current company",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_selects_the_duration_with_s_he_is_insured_with_the_current_company()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 181488380,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "the user selects most recent bodily injury limits",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_selects_most_recent_bodily_injury_limits()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1115920501,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "the user chooeses if s/he has purchases a service from progressive other than car insurance",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_chooeses_if_s_he_has_purchases_a_service_from_progressive_other_than_car_insurance()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1123424706,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "the user chooses if s/he was insured by progressive last month",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_chooses_if_s_he_was_insured_by_progressive_last_month()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3445760001,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "the user enters the primary email address",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_enters_the_primary_email_address()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 99925436,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "the user answers the question if the family members have health insurance",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_answers_the_question_if_the_family_members_have_health_insurance()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1096676845,
+              "status": "passed"
+            },
+            "line": 47,
+            "name": "the user clicks oon the sixth save and continue button",
+            "match": {
+              "location": "autoRegisterStepDefs.the_user_clicks_oon_the_sixth_save_and_continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2213763991,
+              "status": "passed"
+            },
+            "line": 48,
+            "name": "the customer is asked if s/he wants to use snatpshot",
+            "match": {
+              "location": "autoRegisterStepDefs.the_customer_is_asked_if_s_he_wants_to_use_snatpshot()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6084945976,
+              "status": "passed"
+            },
+            "line": 49,
+            "name": "the customer clicks on the save and continiue button for the seventh time",
+            "match": {
+              "location": "autoRegisterStepDefs.the_customer_clicks_on_the_save_and_continiue_button_for_the_seventh_time()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@progressive"
+          }
+        ]
+      }
+    ],
+    "name": "Insurance Quote from Progressive",
+    "description": "",
+    "id": "insurance-quote-from-progressive",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/autoRegister.feature",
+    "tags": [
+      {
+        "name": "@progressive",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
